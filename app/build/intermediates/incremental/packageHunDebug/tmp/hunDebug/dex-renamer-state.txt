@@ -1,0 +1,10 @@
+#Wed Jul 27 13:05:02 EDT 2022
+base.2=/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/dex/hunDebug/mergeProjectDexHunDebug/7/classes.dex
+path.2=7/classes.dex
+base.1=/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/dex/hunDebug/mergeProjectDexHunDebug/1/classes.dex
+path.1=1/classes.dex
+base.0=/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/dex/hunDebug/mergeProjectDexHunDebug/0/classes.dex
+renamed.2=classes3.dex
+renamed.1=classes2.dex
+renamed.0=classes.dex
+path.0=0/classes.dex

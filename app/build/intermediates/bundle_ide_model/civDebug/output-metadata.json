@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "artifactType": {
+    "type": "BUNDLE",
+    "kind": "RegularFile"
+  },
+  "applicationId": "com.atakmap.android.plugintemplate.plugin",
+  "variantName": "civDebug",
+  "elements": [
+    {
+      "type": "SINGLE",
+      "filters": [],
+      "outputFile": "../../../outputs/bundle/civDebug/ATAK-Plugin-plugintemplate-1.0--4.5.1-civ-debug.aab"
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/layout_main_layout.xml.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/layout/main_layout.xml"
+    },
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/drawable_new_dark_button_disabled.xml.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/drawable/new_dark_button_disabled.xml"
+    },
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/drawable_ic_launcher.png.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/drawable/ic_launcher.png"
+    },
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/drawable_new_dark_button_bg.xml.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/drawable/new_dark_button_bg.xml"
+    },
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/drawable_btn_gray.xml.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/drawable/btn_gray.xml"
+    },
+    {
+        "merged": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/build/intermediates/res/merged/aus/debug/drawable_new_dark_button_selected.xml.flat",
+        "source": "/home/juanma/Documents/CivATAk/atak-civ-sdk-4.5.1.13/atak-civ/plugin-examples/plugintemplate/app/src/main/res/drawable/new_dark_button_selected.xml"
+    }
+]
